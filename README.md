@@ -11,4 +11,4 @@ Kinesis Advantage360
 ![Standard View](./blank_layout.png)
 
 ## Base Layout (Layer 1)
-![Base Layout](./base_layout)
+![Base Layout](./base_layout.png)
