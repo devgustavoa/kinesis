@@ -1,11 +1,4 @@
-Kinesis Advantage360
-
-# Standard Layout (Layer 0's default)
-![Standard Base Layout](./standard_layout.png)
-
----
-
-# My Layouts
+# Kinesis Advantage360 - My Layout
 
 ## Standard View (blank keycaps)
 ![Standard View](./blank_layout.png)
